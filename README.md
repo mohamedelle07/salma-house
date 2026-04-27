@@ -56,8 +56,14 @@ The project contains 3 main tables:
 
 1. Install XAMPP
 2. Start Apache and MySQL
-3. Import database.sql into phpMyAdmin
-4. Move project to:C:\xampp\htdocs\salma-house
+3. Open phpMyAdmin:
+   http://localhost/phpmyadmin
+4. Create a new database (e.g., salma_house)
+5. Import the file `database.sql` into the database
+6. Move the project to:
+   C:\xampp\htdocs\salma-house
+7. Open the application in your browser:
+   http://localhost/salma-house/public/login.php
 
 ---
 5. Open browser:
