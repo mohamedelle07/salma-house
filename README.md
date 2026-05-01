@@ -72,7 +72,7 @@ The project contains 3 main tables:
 
 ### Admin Account
 - Email: admin@test.com
-- Password: admin123
+- Password: 123456
 
 ### User Account
 - Email: user@test.com
